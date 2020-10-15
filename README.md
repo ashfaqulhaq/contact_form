@@ -1,2 +1,2 @@
-# contact_form
-Contact form connect with database using PHP code
+#Connection_Code
+Connect contact form wih mysql database using this PHP code.
